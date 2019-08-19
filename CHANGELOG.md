@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
+### Changed:
+
+- Moved from travis-ci to Github Actions
+
 ## 1.2.0
 - DNS name of load balancer added to the output
   

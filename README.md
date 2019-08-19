@@ -1,4 +1,5 @@
 # Terraform module for creating Load Balancers for ECS services
+![badge](https://action-badges.now.sh/philips-software/terraform-aws-ecs-service-load-balancer)
 
 Terraform module creates resources to load balance a ECS service, optional a listener and DNS recored can be created.
 
